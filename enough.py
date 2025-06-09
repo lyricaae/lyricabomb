@@ -15,14 +15,14 @@ for attribute in dir(SendSms):
 while 1:
     system("cls||clear")
     print("""{}
- _   _   _  _     _____ _   _ _____
-| | | |_| || |_  |_   _| \ | /  __ \
-| |_| |_  __  _|   | | |  \| | /  \/
-|  _  |_| || |_    | | | . ` | |
-| | | |_  __  _|  _| |_| |\  | \__/\_
-\_| |_/ |_||_|    \___/\_| \_/\____(_)
+        _   _   _  _     _____ _   _ _____
+       | | | |_| || |_  |_   _| \ | /  __ \
+       | |_| |_  __  _|   | | |  \| | /  \/
+       |  _  |_| || |_    | | | . ` | |
+       | | | |_  __  _|  _| |_| |\  | \__/\_
+       \_| |_/ |_||_|    \___/\_| \_/\____(_)
 
-    Sms: {}           {}by {}@tingirifistik\n  
+    Sms: {}           {}by {}@hashtaginc\n  
     """.format(Fore.LIGHTCYAN_EX, len(servisler_sms), Style.RESET_ALL, Fore.LIGHTRED_EX))
     try:
         menu = (input(Fore.LIGHTMAGENTA_EX + " 1- SMS Gönder (Normal)\n\n 2- SMS Gönder (Turbo)\n\n 3- Çıkış\n\n" + Fore.LIGHTYELLOW_EX + " Seçim: "))
