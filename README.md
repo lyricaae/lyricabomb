@@ -1,4 +1,4 @@
-H#shtag INC. Tarafından Geliştirilen,
+H#shtag INC. Tarafından Editlenen (@tingirifistik),
 Bir SMS-BOMBER Sadece Türkiye Numaralarında Çalışır
 İletişim İçin ➡︎ t.me/hashtaginc 
 
@@ -10,3 +10,6 @@ Bir SMS-BOMBER Sadece Türkiye Numaralarında Çalışır
 git clone https://github.com/hashtaginc/Hashbomb.git
 cd Hashbomb
 python3 hashbomb.py
+
+```
+Asıl Sahibi @tingirifistik'dir
