@@ -1,15 +1,15 @@
-H#shtag INC. Tarafından Editlenen (@tingirifistik),
+lyricaae Tarafından Editlenen (@tingirifistik),
 Bir SMS-BOMBER Sadece Türkiye Numaralarında Çalışır
-İletişim İçin ➡︎ t.me/hashtaginc 
+İletişim İçin ➡︎ t.me/lyricaae
 
 # SMS-BOMBER 📱💣
 
 ## 🚀 Kurulum ve Çalıştırma
 
 ```bash
-git clone https://github.com/hashtaginc/Hashbomb.git
-cd Hashbomb
-python3 hashbomb.py
+git clone https://github.com/lyrica/lyricabomb.git
+cd lyricabomb
+python3 lyricabomb.py
 
 ```
 Asıl Sahibi @tingirifistik'dir
